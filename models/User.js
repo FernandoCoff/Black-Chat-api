@@ -33,4 +33,3 @@ const UserSchema = new Schema(
 
 const User = new Model('User', UserSchema)
 export default User
-
